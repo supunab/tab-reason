@@ -7,4 +7,4 @@ Refer here how to load an extension in Devoper mode.
 
 https://developer.chrome.com/docs/extensions/mv3/getstarted/development-basics/#load-unpacked
 
-Pretty much all the code is generated using ChatGPT and Co-pilot.
+Pretty much all the code is generated using ChatGPT and Co-pilot. Started off from the code in [Reading Time tutorial](https://developer.chrome.com/docs/extensions/mv3/getstarted/tut-reading-time/). 
